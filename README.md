@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Efe0626/RaitoHub/main/Script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
